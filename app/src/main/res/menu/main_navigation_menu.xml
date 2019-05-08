@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+     
+    <item
+        android:id="@+id/enter"
+        android:icon="@mipmap/ic_launcher"
+        android:title="入场详情" />
+       
+    <item
+        android:id="@+id/timetable"
+        android:icon="@mipmap/ic_launcher"
+        android:title="课程表" />
+       
+    <item
+        android:id="@+id/fianco"
+        android:icon="@mipmap/ic_launcher"
+        android:title="体测数据" />
+       
+    <item
+        android:id="@+id/profession"
+        android:icon="@mipmap/ic_launcher"
+        android:title="专业" />
+
+</menu>
